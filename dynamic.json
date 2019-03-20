@@ -1,0 +1,43 @@
+{
+  "basics":
+  {
+    "img":"images/nature.jfif",
+    "name":"poojitha",
+    "email":"poojitha97@gmail.com"
+  },
+  "career":{
+    "info":"i want to seek in aposition where i can explore my thoughts and skills for the benefits of the organisation"
+  },
+  "education":[
+    {
+      "sno":"1",
+      "degeree":"b.tech",
+      "institute":"mits",
+      "percentage":"80%"
+    },
+
+    {
+    "sno":"2",
+    "degeree":"intermediate",
+    "institute":"abd",
+    "percentage":"88%"
+  },
+  {
+      "sno":"3",
+      "degeree":"s.s.c",
+      "institute":"kgf",
+      "percentage":"87%"
+    }
+  ],
+  "technicalskills":[
+    {
+     "info":"c"
+   },
+   {
+    "info":"c++"
+  },
+  {
+   "info":"java"
+  }
+  ]
+}

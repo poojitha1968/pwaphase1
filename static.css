@@ -1,0 +1,31 @@
+body{
+  background:pink;
+}
+.main{
+  background: orange;
+  padding:2%;
+  display: flex;
+  justify-content: space-around;
+}
+.left{
+  margin:2%;
+ border-radius: 30px;
+  background-color: skyblue;
+  width: 30%;
+  text-align: center;
+
+}
+.right{
+  background:lightgreen;
+  width:70%;
+  padding-left: 3%;
+  text-align: left;
+  margin-left: 1%;
+  border-radius: 50px;
+}
+img{
+  width: 100%;
+}
+table{
+  border:1px solid red;
+}
